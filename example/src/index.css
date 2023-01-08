@@ -1,0 +1,30 @@
+#masonry-container{
+  width: 100%;  
+}
+
+#masonry-container .m-card{
+  columns:4 250px;
+  gap: 15px;
+}
+
+/* .m-container .m-card img{
+  width: 100%;
+} */
+
+#masonry-container .m-card .m-card-img{
+  width: 100%;
+}
+
+#masonry-container .m-card .m-card-img img{
+  width: 100%;
+  margin-bottom: 15px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.5s all;
+}
+
+#masonry-container .m-card .m-card-img img:hover{
+  opacity: 0.8;
+  transition: 0.5s all;
+}

@@ -1,0 +1,36 @@
+/* add css module styles here (optional) */
+
+.test {
+  margin: 2em;
+  padding: 0.5em;
+  border: 2px solid #000;
+  font-size: 2em;
+  text-align: center;
+}
+
+#masonry_container{
+  width: 100%;  
+}
+
+.m_card{
+  columns:4 250px;
+  gap: 15px;
+}
+
+.m_card_img{
+  width: 100%;
+}
+
+.m_card_single_img{
+  width: 100%;
+  margin-bottom: 15px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.5s all;
+}
+
+.m_card_single_img:hover{
+  opacity: 0.8;
+  transition: 0.5s all;
+}
