@@ -1,6 +1,6 @@
 /* add css module styles here (optional) */
 
-._styles-module__test__3ybTi {
+._3ybTi {
   margin: 2em;
   padding: 0.5em;
   border: 2px solid #000;
@@ -8,21 +8,21 @@
   text-align: center;
 }
 
-#_styles-module__masonry_container__1yuSs{
+#_1yuSs{
   width: 100%;  
 }
 
-._styles-module__m_card__2f9Hg{
+._2f9Hg{
   -moz-columns:4 250px;
        columns:4 250px;
   gap: 15px;
 }
 
-._styles-module__m_card_img__3XE8u{
+._3XE8u{
   width: 100%;
 }
 
-._styles-module__m_card_single_img__3Gy7V{
+._3Gy7V{
   width: 100%;
   margin-bottom: 15px;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -31,7 +31,7 @@
   transition: 0.5s all;
 }
 
-._styles-module__m_card_single_img__3Gy7V:hover{
+._3Gy7V:hover{
   opacity: 0.8;
   transition: 0.5s all;
 }

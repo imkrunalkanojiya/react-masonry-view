@@ -2,7 +2,7 @@ import React from 'react'
 
 import 'react-masonry-view/dist/index.css'
 // import {MasonryGrid} from 'react-masonry-grid'
-import {MasonryGrid} from 'react-masonry-view'
+import {MasonryView} from "react-masonry-view"
 
 
 import Img1 from './assets/img1.jpg'
@@ -56,7 +56,7 @@ const App = () => {
   ]
   return (
     <>
-      <MasonryGrid imgDetails={imgDetails} />
+      <MasonryView imgDetails={imgDetails} />
     </>
   )
 }

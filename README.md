@@ -50,7 +50,7 @@ function App() {
       imgUrl: "https://source.unsplash.com/random"
     }
   ]
-  return <MasonryGrid imgDetails={imgArray} />
+  return <MasonryView imgDetails={imgArray} />
 }
 ```
 

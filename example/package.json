@@ -12,8 +12,7 @@
   "dependencies": {
     "react": "file:../node_modules/react",
     "react-dom": "file:../node_modules/react-dom",
-    "react-masonry-grid": "file:..",
-    "react-masonry-view": "^1.0.1",
+    "react-masonry-view": "^1.0.5",
     "react-scripts": "file:../node_modules/react-scripts"
   },
   "devDependencies": {
