@@ -12,14 +12,14 @@ React Masonry View is responsive react library for showing simple masonry.
 
 ## Installation
 
-Install my-project with npm
+Install with npm
 
 ```bash
   npm install react-masonry-view
 
 ```
 
-Install my-project with yarn
+Install with yarn
 
 ```bash
   yarn add react-masonry-view
@@ -53,6 +53,17 @@ function App() {
   return <MasonryView imgDetails={imgArray} />
 }
 ```
+
+## Screenshot/Demo
+
+### Desktop View
+
+![screenshot](./screenshots/screen1.png)
+
+### Mobile View
+
+![screenshot](./screenshots/screen2.png)
+
 
 ## License
 
