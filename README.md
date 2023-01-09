@@ -54,6 +54,10 @@ function App() {
 }
 ```
 
+## Live Demo
+
+[Live Demo](https://imkrunalkanojiya.github.io/react-masonry-view/)
+
 ## Screenshot/Demo
 
 ### Desktop View
