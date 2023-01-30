@@ -12,10 +12,10 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
-    "react": "file:../node_modules/react",
-    "react-dom": "file:../node_modules/react-dom",
-    "react-masonry-view": "^1.0.5",
-    "react-scripts": "file:../node_modules/react-scripts"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-masonry-view": "file:..",
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "@babel/plugin-syntax-object-rest-spread": "^7.8.3",
